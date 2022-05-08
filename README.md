@@ -25,3 +25,5 @@
 
 ### Top languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDavidSS&layout=compact&langs_count=10&hide=shell,CMake,M4,Starlark,MakeFile,stata,css)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=JoseDavidSS&style=flat-square&color=blue" alt=""/>
