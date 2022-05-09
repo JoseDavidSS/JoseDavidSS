@@ -28,13 +28,18 @@
 - Android Studio
 - AWS
 - Azure DevOps Services
+- CLion
 - DrRacket
 - Eclipse
 - Google Cloud Platform
 - IntelliJ IDEA
 - JetBrains IDE's
 - Keil µVision MDK
+- LabVIEW
+- Microsoft SQL
+- MongoDB
 - NetBeans
+- PostgreSQL
 - Quartus Prime
 - SWI-Prolog
 - VisUAL ARM
