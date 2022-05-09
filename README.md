@@ -51,12 +51,14 @@
 - .NET Core
 - Angular
 - ARKit
+- Balsamiq Wireframes
 - Entity Framework Core
 - GitHub
 - GitKraken
 - GitLab
 - JavaFX
 - Linux
+- NI MultiSim
 - Qt
 - Scrum
 
