@@ -9,6 +9,7 @@
 - C++
 - C#
 - CSS
+- GNU Octave
 - HTML
 - Java
 - JavaScript
