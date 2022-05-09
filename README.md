@@ -28,31 +28,32 @@
 - Android Studio
 - AWS
 - Azure DevOps Services
-- JetBrains IDE's
-- SWI-Prolog
 - DrRacket
-- Quartus Prime
-- Keil µVision MDK
-- Visual Studio Code
-- VisUAL ARM
-- Xcode
-- IntelliJ IDEA
-- NetBeans
 - Eclipse
 - Google Cloud Platform
+- IntelliJ IDEA
+- JetBrains IDE's
+- Keil µVision MDK
+- NetBeans
+- Quartus Prime
+- SWI-Prolog
+- VisUAL ARM
+- Visual Studio Code
+- Xcode
 
 ### Technologies/Frameworks :
 
-- Angular
 - .NET Core
+- Angular
+- ARKit
 - Entity Framework Core
-- Linux
 - GitHub
-- GitLab
 - GitKraken
-- Scrum
+- GitLab
 - JavaFX
+- Linux
 - Qt
+- Scrum
 
 ### My stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDavidSS&show_icons=true&theme=radical&include_all_commits=true)
