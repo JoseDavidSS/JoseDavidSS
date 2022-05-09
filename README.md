@@ -22,7 +22,7 @@
 - SystemVerilog
 - Verilog
 - VHDL
-- x86 (assembly language)
+- x86 - NASM (assembly language)
 
 ### Developer Tools :
 
@@ -42,6 +42,9 @@
 - NetBeans
 - PostgreSQL
 - Quartus Prime
+- Ripes
+- SASM
+- SimpleScalar Tool
 - SWI-Prolog
 - VisUAL ARM
 - Visual Studio Code
@@ -62,6 +65,7 @@
 - NI MultiSim
 - Qt
 - Scrum
+- Wattch
 
 ### My stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDavidSS&show_icons=true&theme=radical&include_all_commits=true)
