@@ -32,6 +32,7 @@
 - CLion
 - DrRacket
 - Eclipse
+- FPGA
 - Google Cloud Platform
 - IntelliJ IDEA
 - JetBrains IDE's
