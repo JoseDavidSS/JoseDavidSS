@@ -1,6 +1,6 @@
 # Welcome to my github, I'm Jose David Sánchez Schnitzler!
   
-### Coding experience with languages :
+### Languages coding experience :
   
 - Python
 - Arduino
@@ -24,7 +24,7 @@
 - VHDL
 - x86 - NASM (assembly language)
 
-### Experience with different development tools :
+### Different development tools experience :
 
 - Android Studio
 - AWS
@@ -51,7 +51,7 @@
 - Visual Studio Code
 - Xcode
 
-### Experience with different technologies and frameworks :
+### Different technologies and frameworks experience :
 
 - .NET Core
 - Angular
